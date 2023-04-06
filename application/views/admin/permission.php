@@ -1,0 +1,1 @@
+<h2 style="text-align: center; margin-top: 100px;">Bạn không có quyền sử dụng chức năng này</h2>
